@@ -1,9 +1,9 @@
 <h1 align="center">I'm Moritz.</h1>
-<h3 align="center">A teenager who likes Java.</h3>
+<h3 align="center">A teenager who likes Java & JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilostmyconnection&label=Profile%20views&color=0e75b6&style=flat" alt="ilostmyconnection" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact **I love coffee.**
 
