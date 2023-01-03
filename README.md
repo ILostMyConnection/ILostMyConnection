@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilostmyconnection&label=Profile%20views&color=0e75b6&style=flat" alt="ilostmyconnection" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **VueJS**
 
 - ⚡ Fun fact **I love coffee.**
 
